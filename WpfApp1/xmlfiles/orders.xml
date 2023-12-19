@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order>
+    <code>00001</code>
+    <codez>0001</codez>
+    <codet>001</codet>
+    <amount>750</amount>
+    <data>24.11.23</data>
+    <deliverym>Пункт выдачи</deliverym>
+    <deliverycost>150</deliverycost>
+  </order>
+  <order>
+    <code>00002</code>
+    <codez>0002</codez>
+    <codet>002</codet>
+    <amount>150</amount>
+    <data>26.11.23</data>
+    <deliverym>Курьер</deliverym>
+    <deliverycost>150</deliverycost>
+  </order>
+  <order>
+    <code>00003</code>
+    <codez>0003</codez>
+    <codet>003</codet>
+    <amount>500</amount>
+    <data>28.11.23</data>
+    <deliverym>Курьер</deliverym>
+    <deliverycost>120</deliverycost>
+  </order>
+  <order>
+    <code>00004</code>
+    <codez>0004</codez>
+    <codet>004</codet>
+    <amount>350</amount>
+    <data>30.11.23</data>
+    <deliverym>Курьер</deliverym>
+    <deliverycost>150</deliverycost>
+  </order>
+  <order>
+    <code>00005</code>
+    <codez>0005</codez>
+    <codet>005</codet>
+    <amount>560</amount>
+    <data>01.12.23</data>
+    <deliverym>Пункт выдачи</deliverym>
+    <deliverycost>250</deliverycost>
+  </order>
+  <order>
+    <code>00006</code>
+    <codez>0006</codez>
+    <codet>006</codet>
+    <amount>100</amount>
+    <data>23.11.23</data>
+    <deliverym>Пункт выдачи</deliverym>
+    <deliverycost>550</deliverycost>
+  </order>
+</orders>

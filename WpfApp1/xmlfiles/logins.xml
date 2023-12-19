@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <login>ad</login>
+    <password>ads</password>
+  </user>
+  <user>
+    <login>dds</login>
+    <password>ssd</password>
+  </user>
+  <user>
+    <login>f</login>
+    <password>g</password>
+  </user>
+  <user>
+    <login>lp</login>
+    <password>c</password>
+  </user>
+  <user>
+    <login>x</login>
+    <password>f</password>
+  </user>
+  <user>
+    <login>koop</login>
+    <password>doop</password>
+  </user>
+  <user>
+    <login>lo</login>
+    <password>lp</password>
+  </user>
+  <user>
+    <login>rev</login>
+    <password>pov</password>
+  </user>
+  <user>
+    <login>1</login>
+    <password>1</password>
+  </user>
+</users>

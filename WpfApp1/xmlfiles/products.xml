@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <code>001</code>
+    <cost>100</cost>
+    <deliverym>Пункт выдачи</deliverym>
+    <deliverycost>150</deliverycost>
+    <describtion>Футболка хлопок 100%</describtion>
+  </product>
+  <product>
+    <code>002</code>
+    <cost>600</cost>
+    <deliverym>Курьер</deliverym>
+    <deliverycost>150</deliverycost>
+    <describtion>Доска из дуба</describtion>
+  </product>
+  <product>
+    <code>003</code>
+    <cost>700</cost>
+    <deliverym>Курьер</deliverym>
+    <deliverycost>120</deliverycost>
+    <describtion>Гравий мешок 1л</describtion>
+  </product>
+  <product>
+    <code>004</code>
+    <cost>600</cost>
+    <deliverym>Пункт выдачи</deliverym>
+    <deliverycost>600</deliverycost>
+    <describtion>Мешок Песка 5л</describtion>
+  </product>
+  <product>
+    <code>j</code>
+    <cost>n</cost>
+    <deliverym>n</deliverym>
+    <deliverycost>n</deliverycost>
+    <describtion> j</describtion>
+  </product>
+  <product>
+    <code>jb</code>
+    <cost>bb</cost>
+    <deliverym>bjb</deliverym>
+    <deliverycost>bjbj</deliverycost>
+    <describtion>bj</describtion>
+  </product>
+  <product>
+    <code>f</code>
+    <cost>h</cost>
+    <deliverym>h</deliverym>
+    <deliverycost>h</deliverycost>
+    <describtion>h</describtion>
+  </product>
+</products>
